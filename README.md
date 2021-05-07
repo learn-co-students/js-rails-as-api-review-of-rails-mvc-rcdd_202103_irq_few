@@ -6,7 +6,7 @@
 
 ## Introduction
 
-We left Rails with the ability to manage data and display it in a browser using
+We left Rail with the ability to manage data and display it in a browser using
 models, views and controllers. As we have seen, Rails can entirely handle the
 front and backend of a website - one reason it is a great tool for web
 development.
