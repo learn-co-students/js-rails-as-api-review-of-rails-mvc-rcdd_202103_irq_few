@@ -17,6 +17,7 @@ rendering through the Rails controller. The basic files of a Rails app are
 provided in this lesson, but some files will need content from this Readme to 
 function.
 
+
 ## Review of MVC Structure
 
 The model, view, controller structure is a separation of concerns where groups
