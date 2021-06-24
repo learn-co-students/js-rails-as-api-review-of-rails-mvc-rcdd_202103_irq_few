@@ -32,7 +32,7 @@ of files have specific jobs and interact with each other in very defined ways:
   browser.
 
 To review the model, view, controller structure in Rails, we're going to quickly
-walk through the setting up a basic resource. 
+walk through the setting up a basic resource.. 
 
 Let's imagine we want to build an amateur bird watching website. To start, we'll 
 just try to create a site that displays different types of birds. Using Rails and 
